@@ -1746,6 +1746,164 @@
                 "time": "~2h"
             }
         ]
-    }
+    },
+    {
+        "title": "Baron of Shell",
+        "url": "https://www.smwcentral.net/?p=section&a=versionhistory&id=34021",
+        "creator": "shaoshao",
+        "firstplays": [
+            {
+                "category": "100%",
+                "date_completed": "May 24, 2023"
+            }
+        ]
+    },
+    {
+        "title": "Sweet Dream Agnes",
+        "url": "https://www.smwcentral.net/?p=section&a=versionhistory&id=33999",
+        "creator": "elsaiz117",
+        "firstplays": [
+            {
+                "category": "100%",
+                "date_completed": "May 26, 2023"
+            }
+        ]
+    },
+    {
+        "title": "Retrograde Nine",
+        "url": "https://www.smwcentral.net/?p=section&a=versionhistory&id=35107",
+        "creator": "MarsAmpere",
+        "firstplays": [
+            {
+                "category": "Normal",
+                "date_completed": "May 29, 2023"
+            },
+            {
+                "category": "Canon (no checkpoints)",
+                "date_completed": "May 29, 2023"
+            }
+        ]
+    },
+    {
+        "title": "NEW Nightmare cafe 3",
+        "url": "https://www.smwcentral.net/?p=section&a=versionhistory&id=33638",
+        "creator": "Lush_50",
+        "firstplays": [
+            {
+                "category": "100%",
+                "date_completed": "May 29, 2023"
+            }
+        ]
+    },
+    {
+        "title": "Burning Star",
+        "url": "https://www.smwcentral.net/?p=section&a=versionhistory&id=33860",
+        "creator": "PixlBitNick",
+        "firstplays": [
+            {
+                "category": "100%",
+                "date_completed": "Jun 2, 2023"
+            }
+        ]
+    },
+    {
+        "title": "Get On Up!",
+        "url": "https://www.smwcentral.net/?p=section&a=versionhistory&id=32925",
+        "creator": "MorrieTheMagpie",
+        "firstplays": [
+            {
+                "category": "100%",
+                "date_completed": "Jun 9, 2023"
+            }
+        ]
+    },
+    {
+        "title": "Cheap & Nasty",
+        "url": "https://www.smwcentral.net/?p=section&a=versionhistory&id=34198",
+        "creator": "DashGamer",
+        "firstplays": [
+            {
+                "category": "100%",
+                "date_completed": "Jun 30, 2023"
+            }
+        ]
+    },
+    {
+        "title": "Bunbun 3",
+        "url": "https://www.smwcentral.net/?p=section&a=versionhistory&id=34494",
+        "creator": "sio_kedelic",
+        "firstplays": [
+            {
+                "category": "100%",
+                "date_completed": "Aug 2, 2023"
+            }
+        ]
+    },
+    {
+        "title": "Beautiful Dangerous",
+        "url": "https://www.smwcentral.net/?p=section&a=versionhistory&id=34413",
+        "creator": "iamtheratio",
+        "firstplays": [
+            {
+                "category": "100%",
+                "date_completed": "Aug 7, 2023"
+            }
+        ]
+    },
+    {
+        "title": "Entropy",
+        "url": "https://www.smwcentral.net/?p=section&a=versionhistory&id=34714",
+        "creator": "drkrdnk",
+        "firstplays": [
+            {
+                "category": "100%",
+                "date_completed": "Aug 23, 2023"
+            }
+        ]
+    },
+    {
+        "title": "Agnosthesia",
+        "url": "https://www.smwcentral.net/?p=section&a=versionhistory&id=34827",
+        "creator": "LightAligns, Saela",
+        "firstplays": [
+            {
+                "category": "100%",
+                "date_completed": "Aug 28, 2023"
+            }
+        ]
+    },
+    {
+        "title": "Mycelium",
+        "url": "https://www.smwcentral.net/?p=section&a=versionhistory&id=34891",
+        "creator": "schema_tuna",
+        "firstplays": [
+            {
+                "category": "100%",
+                "date_completed": "Sep 1, 2023"
+            }
+        ]
+    },
+    {
+        "title": "Fresh Hops",
+        "url": "https://www.smwcentral.net/?p=section&a=versionhistory&id=35128",
+        "creator": "MorrieTheMagpie",
+        "firstplays": [
+            {
+                "category": "100%",
+                "date_completed": "Sep 27, 2023"
+            }
+        ]
+    },
+    {
+        "title": "Thread the Needle",
+        "url": "https://www.smwcentral.net/?p=section&a=versionhistory&id=35044",
+        "creator": "NixKillsMyths",
+        "firstplays": [
+            {
+                "category": "100%",
+                "date_completed": "Sep 29, 2023"
+            }
+        ]
+    }    
     ]
 }

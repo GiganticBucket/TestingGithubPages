@@ -1,0 +1,32 @@
+<head>
+<style>
+  @keyframes spinnySpinSpin {
+    0% {
+      transform: rotate(0deg);
+      color: blue;
+      font-size:8px;
+    }
+
+    100% {
+      transform: rotate(720deg);
+    }
+  }
+
+  .spinnyDiv {
+    width: fit-content;
+    color: orange;
+    font-size:30px;
+
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+    animation-name: spinnySpinSpin;
+  }
+</style>
+</head>
+
+<div class="spinnyDiv">
+  <span>Wowee!</span>
+</div>
+<div class="spinnyDiv">
+  <span>Amazing!</span>
+</div>
